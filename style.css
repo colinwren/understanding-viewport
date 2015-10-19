@@ -1,7 +1,7 @@
 body {color: #000; font-family: 'Terminal Dosis', sans-serif;}
 body:not([id="index"]) {background: url(pixel-grid.png); }
 a {color: #000; background-color: hsla(0, 0%, 100%, 0.5); padding: 0 0.2em 0 0.2em; border-radius: 2px; text-decoration: none;}
-article {background: hsla(209, 62%, 51%, 0.8); padding: 10px; border-radius: 10px; overflow: hidden;}
+  article {background: hsla(209, 62%, 51%, 0.8); padding: 10px; border-radius: 10px; overflow: hidden; width: 1000px;}
 h1 {font-size: 1.5em; font-weight: bold; background-color: hsla(0, 0%, 100%, 0.7); border-radius: 4px; padding: 0 5px 5px 5px; clear:left;}
 p {font-size: 1.2em;}
 ul {margin-left: 0; padding-left: 0; list-style: none}
